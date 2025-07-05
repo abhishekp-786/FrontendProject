@@ -22,7 +22,7 @@ This is a **frontend clone of Amazon.com** built using only **HTML and CSS**. It
 ## 🌐 Live Demo
 
 You can view the live site here:  
-👉 [https://your-username.github.io/your-repo-name](https://github.com/abhishekp-786/FrontendProject.git)
+👉 [https://github.com/abhishekp-786/FrontendProject.git]
 
 ## 📌 How to Use
 
